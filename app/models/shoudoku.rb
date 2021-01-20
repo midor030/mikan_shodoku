@@ -1,0 +1,2 @@
+class Shoudoku < ApplicationRecord
+end
